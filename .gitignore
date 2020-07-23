@@ -1,0 +1,5 @@
+CRUD.c
+headerpack.h
+*.exe
+*.o
+*.a
